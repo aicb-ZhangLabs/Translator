@@ -1,0 +1,26 @@
+# Translator: A Transfer Learning Approach to Facilitate Single-Cell ATAC-Seq Data Analysis from Reference Dataset
+
+Translator is a deep generative model-based representation learning model to create better cell embeddings for lower-quality samples with the help of a reference dataset. This implementation uses PyTorch as its backend. 
+
+## Setup
+
+To install the software, please clone this repository:
+
+```
+git clone https://github.com/aicb-ZhangLabs/Translator.git
+```
+
+Then, please install all dependencies by using anaconda:
+
+```
+conda env create -f translator.yml
+conda activate translator
+```
+
+## Model training with reference dataset
+
+## Embedding generation
+
+## Embedding export
+
+## Embedding visualization and evaluation
